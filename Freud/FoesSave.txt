@@ -1,0 +1,125 @@
+Name|
+Hit chance|
+Health|
+Damage|
+Intro|
+Annoyed Number|
+Enraged Number|
+Depressed Number|
+R1 attack|
+R2 attack|
+R3 attack|
+R1 dialogue|
+R2 dialogue|
+R3 dialogue|
+Attack description
+Defeat dialogue
+Victory dialogue
+-----------
+Warden Oedipurial|
+0.6|
+10|
+4|
+The Warden of the Institution blocks the Psycho's path and declares: "I swear on my sweet mother's grave that I won't let you hurt anyone else!"|
+3|
+2|
+1|
+1:Insult his mother|
+2:Insult his father|
+3:Insult his occupation|
+The Warden breaks down crying: "Don't talk about my loving mama like that!" (decreased accuracy, damage, and health)|
+The Warden screams back at the psycho: "What does that asshole have to do with this?! I'm gonna kill you!" (slightly decreased accuracy, increased damage, increased health)|
+The Warden looks mildly annoyed: "I'm perfectly happy keeping lunatics like you behind bars, now shut up" (slightly decreased accuracy, slightly increased damage)|
+The Warden swings his club at the Psycopath|
+Warden Oedipurial dies, he's probably joining his father in hell|
+Warden Oedipurial stands over you gleefully "You're never going back to your cell now" the Maniac loses his already tenuous grip on his mind
+-----------
+Officer Richard The Night Stick|
+0.75|
+12|
+4|
+A police officer wielding a menacing looking club corners the psycho: "Prepare to get beat by justice"|
+3|
+2|
+1|
+1:Insult his relationship|
+2:Insult his member|
+3:Tell him he is loved|
+Richard breaks down, he can't keep himself together: "I don't know what more she could want from me" (decreased accuracy, damage, and health)|
+The Night Stick becomes enraged at the Psycho's words: "There's nothing wrong with it, now prepare for my night stick!" (slightly decreased accuracy, increased damage, increased health)|
+The Night Stick looks confused and vaguely bothered: "Why would you say that? Just shut up and surrender already" (slightly decreased accuracy, slightly increased damage)|
+Officer Night Stick swings his night stick|
+The Night Stick drops his night stick, for the first and last time|
+As the maniac's vision begins to fade, he knows the last thing he will feel is the Night Stick's night stick
+-----------
+The Psycho Psychiatrist|
+0.65|
+12|
+5|
+A seemingly unhinged psychiatrist confronts the Psycho: "The mind is like a building to be maintained, and I am a demolition crew!"|
+1|
+2|
+3|
+1:Insult his competence|
+2:Insult his mother|
+3:Insult his sanity|
+The Psycho Psychiatrist doesn't seem all that bothered: "You're just upset by what I have to say to you" (slightly decreased accuracy, slightly increased damage)|
+The Psycho Psychiatrist turns red and starts yelling: "You insane fool, you have no idea what you're talking about, I am my own man, this is likely just projection!" (slightly decreased accuracy, increased damage, increased health)|
+The Psycho Psychiatrist seems at a loss for words: "No... No I must be better than you... Right?" (decreased accuracy, damage, and health)|
+The Psychiatrist brings up the Psychopath's insecurities|
+The Psycho Psychiatrist fails to break the Psychopath's mind, instead the Psycho breaks his body|
+The Psycho Psychiatrist destroys the Psychopath's psyche, leaving him incapable of achieving freedom
+-----------
+Batman|
+0.65|
+15|
+6|
+Batman himself appears from out of a dark corner: "I'm sending you back to Arkham whether you like it or not"|
+2|
+1|
+3|
+1:Insult his view of justice|
+2:Insult his outfit|
+3:Insult his parents|
+Batman starts to move more aggressively: "Scum like you don't deserve to walk these streets" (slightly decreased accuracy, increased damage, increased health)|
+Batman doesn't even bother to respond to the barb, it's beneath him (slightly decreased accuracy, slightly increased damage)|
+Bruce seems to falter: "I just wanted to save them, I just wish I had been Batman..." (decreased accuracy, damage, and health)|
+Batman throws a batarang at the Psychopath|
+The Dark Knight suffers a critical blow, he is finally joining his family|
+Batman strikes the Psycho down, just another piece of scum taken off the street
+-----------
+Officer Pavor|
+0.7|
+15|
+5|
+Another officer stops the Psycho, this one seems anxious, like a cornered animal|
+1|
+3|
+2|
+1:Insult her night stick|
+2:Insult her competence|
+3:Insult her choice in job|
+She seems only a little flustered by this comment: "What? It's standard issue, I shouldn't have to worry about it" (slightly decreased accuracy, slightly increased damage)|
+She begins to hyperventilate, tears start to fall: "There's just too much stress! I can't handle this" (decreased accuracy, damage, and health)|
+Although the officer starts to cry she starts screaming angrily: "I don't need any more of this, I'm going to cave in your skull!" (slightly decreased accuracy, increased damage, increased health)|
+Officer Pavor swings her club at the Psycho|
+Officer Pavor falls, the defeat she always feared has arrived|
+Officer Pavor beats the Psycho down, though she feared him, his last thoughts are of how much he should have feared her
+-----------
+Hallucinated Maniac|
+0.85|
+18|
+5|
+The world begins to twist as though the Psycho was looking in a strange mirror. He sees himself... but not himself...|
+1|
+3|
+2|
+1:Insult his sanity|
+2:Accept him for who he is|
+3:Insult his memory|
+The Hallucination laughs and simply points back at the Psycho (slightly decreased accuracy, slightly increased damage)|
+The Hallucination gives a somewhat sad smile, he seems a little less distorted and puts up less resistance (decreased accuracy, damage, and health)|
+The Hallucination grows larger and more twisted, the Psycho hears something deep and guttural: "What is it that you are seeking fool?" (slightly decreased accuracy, increased damage, increased health)|
+The Hallucination charges with what seems to be a combination of a rock duct taped to scissors|
+The Psychopath overcomes his own insanity, he begins to feel better, YOU begin to feel better. The hallucination fades and wishes you luck in the world...|
+The Psycopath gives in to his insanity, he knew there was no escape, no way out, no freedom from himself...
